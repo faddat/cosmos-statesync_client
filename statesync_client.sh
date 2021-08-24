@@ -33,8 +33,9 @@ then
 
   NODE2_IP="159.65.198.245"
   RPC2="http://$NODE2_IP"
-  RPC_PORT2=26657
   P2P_PORT2=26656
+   RPC_PORT2=26657
+
 
   #If you want to use a third StateSync Server... 
   #DOMAIN_3=seed1.bitcanna.io     # If you want to use domain names 
